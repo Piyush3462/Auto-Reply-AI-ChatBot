@@ -1,0 +1,9 @@
+dotenv==0.9.9
+google-ai-generativelanguage==0.6.15
+google-api-python-client==2.190.0
+google-genai==1.63.0
+grpcio-status==1.71.2
+keyboard==0.13.5
+openai==2.21.0
+pip==26.0.1
+PyAutoGUI==0.9.54
